@@ -1,0 +1,9 @@
+dash
+plotly
+pandas
+numpy
+statsmodels
+scipy
+websocket-client
+sqlite3-binary
+requests
